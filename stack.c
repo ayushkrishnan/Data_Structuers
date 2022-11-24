@@ -79,6 +79,7 @@ void display()
     else 
     {
         printf("The stack is empty\n");
+ 
     }
 }
 
